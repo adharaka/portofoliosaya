@@ -32,7 +32,7 @@
         </svg>Download Resume</button> -->
     </div>
 <div class="flex justify-center md:justify-start fadein-right">
-  <div class="w-[500px] h-[500px] rounded-full overflow-hidden border-4 border-amber-200">
+  <div class="w-[400px] h-[400px] rounded-full overflow-hidden border-4 border-amber-200">
     <img 
       src="/img/avatar.jpg"
       alt="avatar"
