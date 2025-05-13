@@ -8,8 +8,8 @@ export default {
     id: 1,
     name: 'Alquran-journey',
     imageUrl: '/img/alquranjourney.png',
-    status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat leaderboard dari website alquran-journey milik Bea Cukai Purwakarta.',
-    tech: 'Laravel 9, Bootstrap',
+    status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat leaderboard dari website alquran-journey milik Bea Cukai Purwakarta, database nya menggunakan mysql.',
+    tech: 'Laravel 9, Bootstrap, Mysql',
     github: 'null',
     demo: 'null'
   },
@@ -26,8 +26,26 @@ export default {
           id: 3,
           name: 'Monitoring subkon',
           imageUrl: '/img/monitoring.png',
-          status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat monitoring subkon yaitu adalah proses pengelolaan data dari semua perusahaan di purwakarta, disitu menampilkan data masuk barang dan keluar, web ini saya buat untuk internal dari seksi PDAD',
-          tech: 'PHP, CSS, JS, Bootstrap',
+          status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat monitoring subkon yaitu adalah proses pengelolaan data dari semua perusahaan di purwakarta, disitu menampilkan data masuk barang dan keluar, web ini saya buat untuk internal dari seksi PDAD, saya menggunakan SQL server untuk databasenya',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL server',
+          github: 'null',
+          demo: 'null'
+        },
+         {
+          id: 4,
+          name: 'Tampilan login monitoring subkon',
+          imageUrl: '/img/Screenshot 2025-05-13 223125.png',
+          status: 'tampilan login monitoring subkon saya membuat gambarnya memakai aplikasi canva, lalu menggunakan html,css,js,bootstrap, Database nya mengunakan SQL server.',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL Server',
+          github: 'null',
+          demo: 'null'
+        },
+                 {
+          id: 5,
+          name: 'Tampilan dashboard monitoring subkon',
+          imageUrl: '/img/dashboard.png',
+          status: 'tampilan dashboard monitoring subkon saya membuat gambarnya memakai aplikasi canva, lalu saya membuat kolom export excel untuk menambahkan database melalui excel, lalu sistem mengelola data tersebut kedalam SQLServer.',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL Server',
           github: 'null',
           demo: 'null'
         }
