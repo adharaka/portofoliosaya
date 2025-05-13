@@ -12,7 +12,7 @@
         </h1>
       </div>
       <p class="text-white pr-4 fade-in-from-left">Welcome to My personal website. <span class="wave">👋🏼</span></p>
-      <a href="https://drive.google.com/file/d/19c7cGRwJRGMmF3kq1Dt3HeHD-opA_6Fg/view?usp=sharing" target="_blank"
+      <a href="https://drive.google.com/file/d/1dZCkL2OOVMuiFW-O_AAs7xbyRcJ9mNAs/view?usp=sharing" target="_blank"
         rel="noopener noreferrer"
         class="inline-block px-6 py-3 text-lg font-semibold text-black transition-all duration-300 rounded-full bg-gradient-to-r from-yellow-300 to-yellow-500 hover:from-yellow-400 hover:to-yellow-600 shadow-md hover:shadow-xl focus:outline-none fadein-up">
         📄 View CV
