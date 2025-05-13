@@ -31,14 +31,14 @@
           </path>
         </svg>Download Resume</button> -->
     </div>
- <div class="flex justify-center md:justify-start fadein-right">
-  <img 
-    alt="avatar"
-    width="300"
-    height="300"
-    class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict object-cover object-center"
-    src="/img/avatar.jpg"
-  >
+<div class="flex justify-center md:justify-start fadein-right">
+  <div class="w-[300px] h-[300px] rounded-full overflow-hidden border-4 border-amber-200">
+    <img 
+      src="/img/avatar.jpg"
+      alt="avatar"
+      class="w-full h-full object-cover object-center"
+    >
+  </div>
 </div>
 
   </main>
