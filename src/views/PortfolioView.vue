@@ -6,122 +6,46 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Sertifikat Penghargaan PKL di PT. Tera Data Indonusa',
-          imageUrl: '/img/sertifikat1.jpg',
-          status: 'Saya mendapatkan sertifikat PKL saat saya magang di PT. Tera Data Indonusa yang memproduksi laptop lokal merk Axioo, disana saya jadi operator produksinya',
-          tech: 'Sertifikat PKL',
+          name: 'Alquran-journey',
+          imageUrl: '/img/alquranjourney.png',
+          status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat leaderboard dari website alquran-journey milik Bea Cukai Purwakarta, database nya menggunakan mysql.',
+          tech: 'Laravel 9, Bootstrap, Mysql',
           github: 'null',
           demo: 'null'
         },
         {
           id: 2,
-          name: 'Makeblock',
-          imageUrl: '/img/sertifikat2.jpg',
-          status: 'Saya mendapatkan sertifikat resmi dari Makeblock Indonesia.',
-          tech: 'Makeblock Logic Fundamental',
+          name: 'GPStracker Beacukai Purwakarta',
+          imageUrl: '/img/login.png',
+          status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat form login dari website GPStracker milik Bea Cukai Purwakarta.',
+          tech: 'Laravel 8, Bootstrap',
           github: 'null',
           demo: 'null'
         },
         {
           id: 3,
-          name: 'Daftar kompetensi dari Makeblock Logic Fundamental',
-          imageUrl: '/img/sertifikat3.jpg',
-          status: 'Daftar unit kompetensi',
+          name: 'Monitoring subkon',
+          imageUrl: '/img/monitoring.png',
+          status: 'Saat saya magang di Bea cukai Purwakarta saya mendapatkan tugas untuk membuat monitoring subkon yaitu adalah proses pengelolaan data dari semua perusahaan di purwakarta, disitu menampilkan data masuk barang dan keluar, web ini saya buat untuk internal dari seksi PDAD, saya menggunakan SQL server untuk databasenya',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL server',
           github: 'null',
           demo: 'null'
         },
         {
           id: 4,
-          name: 'Sertifikat ACP Graphic Design Fundamental',
-          imageUrl: '/img/sertifikat4.jpg',
-          status: 'Saya mendapatkan sertifikat resmi dari Axioo Class Program',
-          tech: 'ACP Graphic Design Fundamental',
+          name: 'Tampilan login monitoring subkon',
+          imageUrl: '/img/Screenshot 2025-05-13 223125.png',
+          status: 'tampilan login monitoring subkon saya membuat gambarnya memakai aplikasi canva, lalu menggunakan html,css,js,bootstrap, Database nya mengunakan SQL server.',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL Server',
           github: 'null',
           demo: 'null'
         },
         {
           id: 5,
-          name: 'Materi Pelatihan dari ACP Graphic Design Fundamental',
-          imageUrl: '/img/sertifikat5.jpg',
-          status: 'Materi Pelatihan',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 6,
-          name: 'Sertifikat ACP #1 - Hardware Fundamental',
-          imageUrl: '/img/sertifikat6.jpg',
-          tech: 'ACP #1 - Hardware Fundamental',
-          status: 'Saya mendapatkan sertifikat resmi dari Axioo Class Program',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 7,
-          name: 'Materi Pelatihan dari ACP #1 - Hardware Fundamental',
-          imageUrl: '/img/sertifikat7.jpg',
-          status: 'Materi Pelatihan',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 8,
-          name: 'Sertifikat ACP #2 - Computer Maintenance - Basic level',
-          imageUrl: '/img/sertifikat8.jpg',
-          tech: 'ACP #2 - Computer Maintenance - Basic level',
-          status: 'Saya mendapatkan sertifikat resmi dari Axioo Class Program',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 9,
-          name: 'Materi Pelatihan dari ACP #2 - Computer Maintenance - Basic level',
-          imageUrl: '/img/sertifikat9.jpg',
-          status: 'Materi Pelatihan',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 10,
-          name: 'Sertifikat ACP #3 - Hardware Troubleshooting - Basic level',
-          imageUrl: '/img/sertifikat10.jpg',
-          tech: 'ACP #3 - Hardware Troubleshooting - Basic level',
-          status: 'Saya mendapatkan sertifikat resmi dari Axioo Class Program',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 11,
-          name: 'Materi Pelatihan dari ACP #3 - Hardware Troubleshooting - Basic level',
-          imageUrl: '/img/sertifikat11.jpg',
-          status: 'Materi Pelatihan',
-          github: 'null',
-          demo: 'null'
-        },
-                {
-          id: 12,
-          name: 'Sertifikat magang bea cukai Purwakarta',
-          imageUrl: '/img/beacukai.png',
-          tech: 'Kementrian Keuangan Republik Indonesia',
-          status: 'Saya mendapatkan sertifikat magang dari Kemenkeu',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 13,
-          name: 'Sertifikat Miktrotik - MTCNA',
-          imageUrl: '/img/sertifikat12.jpg',
-          tech: 'Mikrotik - MTCNA',
-          status: 'Saya mendapatkan sertifikat resmi Mikrotik',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 14,
-          name: 'Sertifikat magang PT Indorama Synthetics Tbk',
-          imageUrl: '/img/indorama.jpg',
-          tech: 'PT Indorama Synthetics Tbk',
-          status: 'Saya mendapatkan sertifikat magang dari PT Indorama',
+          name: 'Tampilan dashboard monitoring subkon',
+          imageUrl: '/img/dashboard.png',
+          status: 'tampilan dashboard monitoring subkon saya membuat gambarnya memakai aplikasi canva, lalu saya membuat kolom export excel untuk menambahkan database melalui excel, lalu sistem mengelola data tersebut kedalam SQLServer.',
+          tech: 'PHP, CSS, JS, Bootstrap, SQL Server',
           github: 'null',
           demo: 'null'
         }
@@ -137,9 +61,9 @@ export default {
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
           <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
-          <h4>My Certificate</h4>
+          <h4>Past Project Experience</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
-            Explore the My Certificate on so far</h4>
+            Explore the projects I've worked on so far</h4>
         </div>
       </header>
       <section>
